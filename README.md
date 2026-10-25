@@ -14,6 +14,6 @@ PostgreSQL and the local AI model are included. No separate PostgreSQL or Python
 
 This is a clean package for a new pharmacy: no patients, prescriptions, dispensing history, migrated customer databases or prior activation are included. Existing pharmacies should arrange a migration rather than replace their working database with this clean database.
 
-`SHA256SUMS.txt` provides the download checksum. Activation and initial administrator login details are supplied privately by your provider and are not published here.
+Activation and initial administrator login details are supplied privately by your provider and are not published here.
 
 GitHub automatically displays **Source code (zip/tar.gz)** links for release tags. Those archives contain this download-page README only, not application source. The application is distributed as compiled binaries with required third-party runtime files and license notices.
